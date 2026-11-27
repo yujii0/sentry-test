@@ -4,7 +4,8 @@
 
 - Sentry 조직: datauniverse-91
 - GitHub 이슈 레포: yujii0/sentry-test
-- Slack 알림 채널: #sentry-info (C0CM9T0S5BQ). 채널을 바꾸려면 이 값만 고친다. 비우면 Slack 알림을 보내지 않는다.
+- Slack 알림 채널: #sentry-info (C0CM9T0S5BQ). 이슈 알림용. 채널을 바꾸려면 이 값만 고친다. 비우면 Slack 알림을 보내지 않는다.
+- 주간 리포트 Slack 채널: #sentry-info (C0CM9T0S5BQ). 주간 리포트 요약용. 비우면 Slack 알림을 보내지 않는다.
 
 ## 매핑표
 
